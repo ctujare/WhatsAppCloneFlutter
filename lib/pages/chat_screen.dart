@@ -51,6 +51,10 @@ class _ChatScreenState extends State<ChatScreen> {
                   ),
                 ),
               ),
+            ),
+            const Divider(
+              height: 2.0,
+              color: Colors.black54,
             )
           ],
         );
